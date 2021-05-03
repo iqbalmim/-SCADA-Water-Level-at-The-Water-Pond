@@ -1,0 +1,29 @@
+Begin DDE Information.
+    Last DDE Source:	2
+Begin DDE Source Definition.
+    Source Name:		arduopc
+    Application Name:		Server_runtime
+    Topic Name:			proyekmandiri_arduino
+    DDE Source ID:		2
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			1
+    Begin DDE Points
+        in_maintenance;0029:  maintenance
+        in_pompa;0028:  output_relay
+        in_mandatory;0027:  mandatory
+        out_sensor;0026:  inputsensor
+    End DDE Points
+End DDE Source Definition.
+Begin DDE Source Definition.
+    Source Name:		Galaxy
+    Application Name:		\\NA\NA
+    Topic Name:			NA
+    DDE Source ID:		1
+    Request Initial Data:	1
+    Always Advise:		0
+    SuiteLink:			3
+    Begin DDE Points
+    End DDE Points
+End DDE Source Definition.
+End DDE Information.

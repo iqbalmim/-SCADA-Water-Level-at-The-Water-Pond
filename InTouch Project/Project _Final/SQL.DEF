@@ -1,0 +1,8 @@
+:BindListName;DaftardbPmKetinggianAir
+wwnomor;[Nomor]
+wwwaktu;[Waktu]
+out_sensor;[Ketinggian]
+:TableTemplateName;TabelKetinggianAir
+Nomor;text; ;Null;None
+Waktu;text; ;Null;None
+Ketinggian;text; ;Null;None
